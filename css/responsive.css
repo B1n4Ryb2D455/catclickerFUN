@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* @media screen and (min-width: 359px) and (max-width: 759px) {
+  figure {
+    margin: auto;
+    padding: 3px;
+  }
+  .box_two {
+    margin: auto;
+  }
+  .box_three {
+    display: flex;
+    text-align: center;
+    color: #730500;
+  }
+  .box_four {
+    display: flex;
+    text-align: center;
+    color: #730500;
+  }
+}
+
+@media screen and (min-width: 616px) and (max-width: 1023px) {
+  .box_two {
+    margin: auto;
+  }
+  .box_three {
+    display: inherit;
+  }
+  .box_four {
+    display: inherit;
+  }
+  .box_five {
+    font-size: xx-large;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .box_two {
+    margin: auto;
+  }
+  .box_three {
+    margin-top: 5%;
+  }
+  .box_four {
+    display: inherit;
+    margin-left: auto;
+  }
+  .box_five {
+    font-size: xx-large;
+  }
+} */
