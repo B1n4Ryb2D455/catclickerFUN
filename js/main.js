@@ -15,7 +15,6 @@ btn.onclick = function clickCount() {
   paulCounter.innerHTML = clicks;
   console.log(clicks);
 }
-
 class Cat {
   constructor(name) {
     this.name = name;
@@ -29,5 +28,3 @@ gothKitty.innerHTML = `You have annoyed ${catOne.name}, congratulations...`;
 
 let paulKitty = document.querySelector('.pK');
 paulKitty.innerHTML = `You have annoyed ${catTwo.name}, congratulations...`;
-
-
